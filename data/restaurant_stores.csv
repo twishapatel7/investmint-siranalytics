@@ -1,0 +1,61 @@
+store_id,store_name,city,state,latitude,longitude,store_type,square_feet,opening_year,seating_capacity,has_drive_thru,has_delivery,region
+STR001,Location 1,Los Angeles,CA,34.0748,-118.2469,suburban,1800,2016,120,0,1,West
+STR002,Location 2,San Antonio,TX,29.4524,-98.4138,mall,3000,2007,200,1,1,South
+STR003,Location 3,San Antonio,TX,29.4083,-98.5017,suburban,2500,2012,166,0,1,South
+STR004,Location 4,Jacksonville,FL,30.409,-81.6216,downtown,1800,2012,120,1,1,South
+STR005,Location 5,San Diego,CA,32.6965,-117.1329,urban,1500,2006,100,0,1,West
+STR006,Location 6,Dallas,TX,32.7568,-96.8233,mall,1200,2011,80,1,1,South
+STR007,Location 7,Houston,TX,29.7721,-95.4657,mall,1500,2020,100,0,1,South
+STR008,Location 8,Austin,TX,30.1838,-97.7681,downtown,1500,2013,100,0,0,South
+STR009,Location 9,Phoenix,AZ,33.3994,-112.0543,mall,3000,2018,200,1,1,West
+STR010,Location 10,Phoenix,AZ,33.4046,-112.1406,mall,1500,2009,100,1,1,West
+STR011,Location 11,New York,NY,40.7833,-74.0213,urban,3500,2006,233,0,0,Northeast
+STR012,Location 12,San Antonio,TX,29.4234,-98.5612,suburban,3500,2018,233,1,0,South
+STR013,Location 13,San Diego,CA,32.6928,-117.1545,downtown,2200,2019,146,1,1,West
+STR014,Location 14,New York,NY,40.6525,-73.9912,urban,3000,2008,200,1,1,Northeast
+STR015,Location 15,Phoenix,AZ,33.42,-112.0846,mall,3500,2015,233,0,1,West
+STR016,Location 16,Austin,TX,30.2399,-97.6474,downtown,1500,2019,100,0,1,South
+STR017,Location 17,Philadelphia,PA,39.9493,-75.2229,mall,2500,2010,166,1,0,Northeast
+STR018,Location 18,Dallas,TX,32.8211,-96.861,mall,3500,2021,233,1,0,South
+STR019,Location 19,Dallas,TX,32.7904,-96.898,suburban,1800,2010,120,1,1,South
+STR020,Location 20,Chicago,IL,41.8136,-87.6202,urban,2500,2015,166,0,0,Midwest
+STR021,Location 21,Philadelphia,PA,39.9869,-75.1614,urban,1800,2014,120,0,0,Northeast
+STR022,Location 22,Jacksonville,FL,30.3242,-81.6751,suburban,2500,2007,166,0,1,South
+STR023,Location 23,Houston,TX,29.6861,-95.406,downtown,3500,2007,233,1,0,South
+STR024,Location 24,Columbus,OH,39.937,-82.9371,suburban,3000,2020,200,1,0,Midwest
+STR025,Location 25,Columbus,OH,39.9772,-83.0782,mall,2500,2018,166,0,1,Midwest
+STR026,Location 26,San Diego,CA,32.7362,-117.1793,suburban,3000,2014,200,0,1,West
+STR027,Location 27,Los Angeles,CA,34.0162,-118.2094,mall,2200,2021,146,0,0,West
+STR028,Location 28,Dallas,TX,32.8315,-96.7534,suburban,1500,2007,100,0,0,South
+STR029,Location 29,San Diego,CA,32.678,-117.1755,suburban,2500,2012,166,0,0,West
+STR030,Location 30,Phoenix,AZ,33.4666,-112.0212,urban,1500,2007,100,0,1,West
+STR031,Location 31,Houston,TX,29.736,-95.3793,urban,2500,2012,166,0,1,South
+STR032,Location 32,Jacksonville,FL,30.2747,-81.7198,downtown,1500,2009,100,1,1,South
+STR033,Location 33,Houston,TX,29.8006,-95.3022,downtown,1500,2020,100,0,0,South
+STR034,Location 34,New York,NY,40.7064,-73.9598,urban,1200,2018,80,0,1,Northeast
+STR035,Location 35,New York,NY,40.7281,-74.0423,downtown,2200,2006,146,1,1,Northeast
+STR036,Location 36,San Antonio,TX,29.4381,-98.4131,urban,1200,2017,80,1,1,South
+STR037,Location 37,Phoenix,AZ,33.4482,-111.9918,urban,1500,2011,100,0,1,West
+STR038,Location 38,Columbus,OH,39.829,-82.9489,downtown,1500,2018,100,0,1,Midwest
+STR039,Location 39,Austin,TX,30.2744,-97.755,downtown,1500,2007,100,0,1,South
+STR040,Location 40,Chicago,IL,41.8846,-87.7294,urban,1200,2005,80,0,0,Midwest
+STR041,Location 41,Austin,TX,30.259,-97.7221,suburban,2200,2020,146,0,0,South
+STR042,Location 42,Houston,TX,29.8339,-95.3959,downtown,1200,2010,80,0,0,South
+STR043,Location 43,Jacksonville,FL,30.2896,-81.6851,downtown,1800,2019,120,0,1,South
+STR044,Location 44,New York,NY,40.7558,-73.9936,downtown,1500,2011,100,0,0,Northeast
+STR045,Location 45,San Antonio,TX,29.3935,-98.4643,urban,2500,2006,166,1,1,South
+STR046,Location 46,Los Angeles,CA,34.0549,-118.1916,urban,1200,2020,80,1,1,West
+STR047,Location 47,San Diego,CA,32.6849,-117.1764,suburban,1200,2021,80,0,0,West
+STR048,Location 48,Jacksonville,FL,30.3104,-81.7332,urban,2500,2007,166,1,0,South
+STR049,Location 49,Chicago,IL,41.8948,-87.6169,downtown,1200,2012,80,1,1,Midwest
+STR050,Location 50,Jacksonville,FL,30.3303,-81.6717,urban,2500,2007,166,0,1,South
+STR051,Location 51,Dallas,TX,32.7092,-96.821,mall,1800,2011,120,1,1,South
+STR052,Location 52,Philadelphia,PA,39.9329,-75.2101,mall,1500,2013,100,0,0,Northeast
+STR053,Location 53,Austin,TX,30.2619,-97.7198,mall,2200,2015,146,0,0,South
+STR054,Location 54,New York,NY,40.8043,-74.0013,downtown,2500,2008,166,0,1,Northeast
+STR055,Location 55,Austin,TX,30.2829,-97.7437,suburban,2500,2013,166,0,1,South
+STR056,Location 56,Los Angeles,CA,33.9541,-118.2413,urban,1500,2016,100,0,0,West
+STR057,Location 57,Chicago,IL,41.883,-87.5068,downtown,3500,2014,233,1,1,Midwest
+STR058,Location 58,Dallas,TX,32.7704,-96.7849,urban,3000,2014,200,1,0,South
+STR059,Location 59,Columbus,OH,39.9583,-83.0484,suburban,1800,2008,120,0,1,Midwest
+STR060,Location 60,Philadelphia,PA,40.0071,-75.1324,suburban,1800,2014,120,1,0,Northeast
